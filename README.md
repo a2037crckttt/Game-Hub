@@ -72,7 +72,7 @@ Game-Hub/
 
 <h2>Team</h2>
 <p>
-Arrham - <a href="">Visit GitHub</a><br>
+Arrham - <a href="https://github.com/a2037crckttt">Visit GitHub</a><br>
 Arav - <a href="">Visit GitHub</a><br>
 Roshan - <a href="">Visit GitHub</a><br>
 Krishna - <a href="">Visit GitHub</a>
