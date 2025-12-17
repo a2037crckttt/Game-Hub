@@ -17,7 +17,7 @@ Each game runs independently in its own thread, ensuring the main launcher remai
 <h2>Included Games</h2>
 <p>
 <ol>
-<li><b>BIHARI F1</b> – Car racing game</li>
+<li><b>F1 Full Throttle</b> – Car racing game</li>
 <li><b>Rock Paper Scissors</b> – Classic game with GUI</li>
 <li><b>Tic Tac Toe</b> – Two-player grid game</li>
 <li><b>Space Monkey</b> – Space-themed arcade game</li>
