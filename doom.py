@@ -26,7 +26,7 @@ btn_style = {
     "corner_radius": 18,
     "height": 110,
     "width": 240,
-    "font": ("Agency FB", 20, "bold"),
+    "font": ("Agency FB", 30, "bold"),
     "fg_color": "#080707",
     "hover_color": "#0E3C10",
     "text_color": "#ffffff"
@@ -41,7 +41,7 @@ def launch_game(game_func):
 
 ctk.CTkButton(
     games_frame,
-    text="BIHARI F1",
+    text="F1 FULL THROTTLE",
     command=lambda: launch_game(car_game),
     **btn_style
 ).pack(pady=20)

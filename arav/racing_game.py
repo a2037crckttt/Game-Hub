@@ -8,7 +8,7 @@ def car_game(root):
     pygame.init()
     clock = pygame.time.Clock()
     screen_main = pygame.display.set_mode((1300,650))
-    pygame.display.set_caption("FORMULA1_BIHARI _VERSION")
+    pygame.display.set_caption("FORMULA1")
 
     BASE_DIR = os.path.dirname(__file__)
 
