@@ -17,7 +17,7 @@ games_frame.pack(fill="both", expand=True, padx=20, pady=20)
 header = ctk.CTkLabel(
     games_frame,
     text="Pick A Game",
-    font=("Agency FB", 30, "bold"),
+    font=("Agency FB", 50, "bold"),
     text_color="#ffffff"
 )
 header.pack(pady=20)
@@ -41,30 +41,29 @@ def launch_game(game_func):
 
 ctk.CTkButton(
     games_frame,
-    text="Game1",
+    text="BIHARI F1",
     command=lambda: launch_game(car_game),
     **btn_style
 ).pack(pady=20)
 
 ctk.CTkButton(
     games_frame,
-    text="Game2",
+    text="ROCK PAPER SCISSORS",
     command=lambda: launch_game(rock_paper),
     **btn_style
 ).pack(pady=20)
 
 ctk.CTkButton(
     games_frame,
-    text="Game3",
+    text="TIC TAC TOE",
     command=lambda: launch_game(xox),
     **btn_style
 ).pack(pady=20)
 
 ctk.CTkButton(
     games_frame,
-    text="Game4",
-    command=lambda: launch_game(space_game),
-    **btn_style
+    text="SPACE MONKEY",
+    command=lambda: launch_game(space_game),**btn_style
 ).pack(pady=20)
 
 main_window.mainloop()
