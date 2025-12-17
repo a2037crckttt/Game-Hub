@@ -73,9 +73,9 @@ Game-Hub/
 <h2>Team</h2>
 <p>
 Arrham - <a href="https://github.com/a2037crckttt">Visit GitHub</a><br>
-Arav - <a href="">Visit GitHub</a><br>
-Roshan - <a href="">Visit GitHub</a><br>
-Krishna - <a href="https://github.com/imroshan17">Visit GitHub</a>
+Arav - <a href="https://github.com/aravranjan">Visit GitHub</a><br>
+Roshan - <a href="https://github.com/imroshan17">Visit GitHub</a><br>
+Krishna - <a href="https://github.com/krisserss">Visit GitHub</a>
 </p>
 
 <h2>Output</h2>
