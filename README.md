@@ -4,7 +4,7 @@ Game Hub is a desktop application built using Python and CustomTkinter that acts
 Each game runs independently in its own thread, ensuring the main launcher remains responsive while a game is running.
 </p>
 
-<h1>Features</h1>
+<h2>Features</h2>
 <uL>
 <li>Modern GUI built with CustomTkinter</li>
 <li>Dark theme with smooth hover effects</li>
@@ -14,7 +14,7 @@ Each game runs independently in its own thread, ensuring the main launcher remai
 <li>Clean and minimal layout</li>
 </uL>
 
-<h1>Included Games</h1>
+<h2>Included Games</h2>
 <p>
 <ol>
 <li><b>BIHARI F1</b> – Car racing game</li>
@@ -24,15 +24,16 @@ Each game runs independently in its own thread, ensuring the main launcher remai
 </ol>
 </p>
 
-<h1>Technologies Used</h1>
+<h2>Technologies Used</h2>
 <ul>
 <li>Python</li>
 <li>CustomTkinter</li>
 <li>Threading</li>
+<li>PyGames</li>
 <li>Modular Python imports</li>
 </ul>
 
-<h1>How It Works</h1>
+<h2>How It Works</h2>
 The main window is created using CTk
 <ul>
 <li>Each button is linked to a game function</li>
@@ -40,7 +41,7 @@ The main window is created using CTk
 <li>The project follows a modular folder structure, keeping each game independent</li>
 </ul>
 
-<h1>Project Structure (Example)</h1>
+<h2>Project Structure (Example)</h2>
 
 ```
 Game-Hub/
@@ -57,12 +58,12 @@ Game-Hub/
 │       └── main.py
 ```
 
-<h1>Installation & Run</h1>
+<h2>Installation & Run</h2>
 
     pip install customtkinter
     python main.py
 
-<h1>Future Improvements</h1>
+<h2>Future Improvements</h2>
 <ul>
 <li>Sound effects and background music</li>
 <li>Score tracking and leaderboards</li>
@@ -70,10 +71,17 @@ Game-Hub/
 <li>Packaging as a standalone .exe</li>
 </ul>
 
-<h1>Team</h1>
+<h2>Team</h2>
 <p>
-Arrham - <a href="">Visit GitHub</a>
-Arav - <a href="">Visit GitHub</a>
-Roshan - <a href="">Visit GitHub</a>
-Krishna - <a href="">Visit GitHub</a>
+Arrham - <a href="https://github.com/a2037crckttt">Visit GitHub</a><br>
+Arav - <a href="https://github.com/aravranjan">Visit GitHub</a><br>
+Roshan - <a href="https://github.com/imroshan17">Visit GitHub</a><br>
+Krishna - <a href="https://github.com/krisserss">Visit GitHub</a>
 </p>
+
+<h2>Output</h2>
+<img src="https://github.com/a2037crckttt/Game-Hub/blob/master/outputss/Screenshot%202025-12-17%20182827.png?raw=true">
+<img src="https://github.com/a2037crckttt/Game-Hub/blob/master/outputss/Screenshot%202025-12-17%20183022.png?raw=true">
+<img src="https://github.com/a2037crckttt/Game-Hub/blob/master/outputss/Screenshot%202025-12-17%20183109.png?raw=true">
+<img src="https://github.com/a2037crckttt/Game-Hub/blob/master/outputss/Screenshot%202025-12-17%20183148.png?raw=true">
+<img src="https://github.com/a2037crckttt/Game-Hub/blob/master/outputss/Screenshot%202025-12-17%20183224.png?raw=true">
