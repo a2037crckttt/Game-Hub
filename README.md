@@ -29,6 +29,7 @@ Each game runs independently in its own thread, ensuring the main launcher remai
 <li>Python</li>
 <li>CustomTkinter</li>
 <li>Threading</li>
+<li>PyGames</li>
 <li>Modular Python imports</li>
 </ul>
 
